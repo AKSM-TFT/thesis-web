@@ -6,7 +6,7 @@ function Logo() {
       <img
         src={logo}
         alt="Clairity Logo"
-        className="w-40 md:w-48 drop-shadow-lg select-none"
+        className="w-32 sm:w-40 md:w-48 drop-shadow-lg select-none"
         draggable={false}
       />
     </div>
